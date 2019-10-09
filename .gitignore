@@ -1,0 +1,51 @@
+/vuechatexample/.DS_Store
+/vuechatexample/node_modules
+/vuechatexample/dist
+
+# local env files
+/vuechatexample/.env.local
+/vuechatexample/.env.*.local
+
+# Log files
+/vuechatexample/npm-debug.log*
+/vuechatexample/yarn-debug.log*
+/vuechatexample/yarn-error.log*
+
+# Editor directories and files
+/vuechatexample/.idea
+/vuechatexample/.vscode
+/vuechatexample/*.suo
+/vuechatexample/*.ntvs*
+/vuechatexample/*.njsproj
+/vuechatexample/*.sln
+/vuechatexample/*.sw?
+
+/chatexample/target/
+/chatexample/bin/
+!/chatexample/.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+/chatexample/.apt_generated
+/chatexample/.classpath
+/chatexample/.factorypath
+/chatexample/.project
+/chatexample/.settings
+/chatexample/.springBeans
+/chatexample/.sts4-cache
+
+### IntelliJ IDEA ###
+/chatexample/.idea
+/chatexample/*.iws
+/chatexample/*.iml
+/chatexample/*.ipr
+
+### NetBeans ###
+/chatexample/nbproject/private/
+/chatexample/build/
+/chatexample/nbbuild/
+/chatexample/dist/
+/chatexample/nbdist/
+/chatexample/.nb-gradle/
+
+/chatexample/uploads/*
+!/chatexample/uploads/.keep
